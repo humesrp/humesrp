@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @humesrp
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning python
-- 😄 Pronouns: any, but no neo
-- ⚡ Fun fact: I love dark academia
 - ✈ I love traveling
 - 
 <!---
